@@ -1,0 +1,49 @@
+nameofsymp,answer,question,state,activate_state,place
+hear,i can see you talk but i cant hear you,can you hear me well,-1,n,n
+hear,yes i can here you well doc,can you hear me well,0,n,n
+hear,yes i can here you well doc,can you hear me well,1,n,n
+thermia,iam feel worming doctor,what about you tempreture,1,n,n
+thermia,no i dont feel anything ,what about you tempreture,0,n,n
+thermia,i feel so cold right now,what about you tempreture,-1,n,n
+respiration,i dont know my respiratory is so fast right now,do you feel any problem in breathing,1,n,n
+respiration,my breathing is well,do you feel any problem in breathing,0,n,n
+respiration,i cant take my breath,do you feel any problem in breathing,-1,n,n
+ache,yes doctor there is pain in ((organ)),do you feel pain here,1,n,n
+ache,no i dont feel anything ((organ)),do you feel pain here,-1,n,n
+ache,no i dont feel anything ,do you feel pain here,0,n,n
+move,yes i think i cant stop move this,can you move this ,1,n,n
+move,yes i think i can move this well ,can you move this ,0,n,n
+move,no doctor i cant move ,can you move this ,-1,n,n
+sleep ,in these days iam sleeping so much,do you sleep well,1,n,n
+sleep ,i have regular sleep doctor,do you sleep well,0,n,n
+sleep ,i cant sleep so much at night,do you sleep well,-1,n,n
+eye,i dont think i can see you well doctor,can you see me well ,-1,n,n
+eye,i can see you well,can you see me well ,0,n,n
+eye, i can see every thing blur ,can you see me well ,1,n,n
+pigmentation, i dont know but ((organ)) has some changes in its colour ,is there any skin issues,1,n,n
+pigmentation,no there isnt any thing i my skin ,is there any skin issues,-1,n,n
+pigmentation,no there isnt any thing i my skin ,is there any skin issues,0,n,n
+fluid, there are fluid come from my ((organ)),is there any execretions,1,n,n
+fluid,i dont think there is any execretions come from my ((organ)),is there any execretions,0,n,n
+fluid,i dont think that ((organ)) execrete any thing from my born doctor ,is there any execretions,-1,n,n
+sexual,i dont like to talk about this doc but i think i have some sex function  issue,tell me about your sexual life style,-1,n,n
+sexual,no i think iam doing well in my sexual intercoast,tell me about your sexual life style,1,n,n
+sexual,no i think iam doing well in my sexual intercoast,tell me about your sexual life style,0,n,n
+status,i am Mia ,what is you name,3,n,n
+status,iam 33 years old,how old are you,3,n,n
+status,yes i have husband ,do you married,3,n,n
+feces,i think my feces its large in quantity ,do you have any problems in the pathroom ,1,n,n
+feces,i think my feces  its small in quantity ,do you have any problems in the pathroom ,-1,n,n
+feces,i think my feces  its intact in quantity ,do you have any problems in the pathroom ,0,n,n
+urination, my urine  i think its large  quantity,do you have any problems in the pathroom ,1,n,n
+urination, my urine i think its small  quantity,do you have any problems in the pathroom ,-1,n,n
+urination, my urine i think its intact in quantity,do you have any problems in the pathroom ,0,n,n
+weight,my weight is inceasing so much these days,is there any problem in your weight ,1,n,n
+weight,my weight is decreasig so much these days,is there any problem in your weight ,-1,n,n
+weight,my weight is stable  these days,is there any problem in your weight ,0,n,n
+size,i feel that ((organ)) is larger than normal,is there any size change symptoms,1,n,n
+size,i feel that ((organ)) is smaller than normal,is there any size change symptoms,-1,n,n
+size,i think that all my organ is normal in size,is there any size change symptoms,0,n,n
+glucose,i think i have a family history of increase glucose level ....doctor,do you have any family history of diabetic,1,n,n
+glucose,i think i have a family history of decreasing glucose level i think my uncle was like this,do you have any family history of diabetic,-1,n,n
+glucose,i think my glucose is stable some  of my family has diabetes but i dont have any issues,do you have any family history of diabetic,0,n,n
